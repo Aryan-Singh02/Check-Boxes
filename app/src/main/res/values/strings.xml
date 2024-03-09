@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check Boxes</string>
+    <string name="what_is_your_hobbies">What is your hobbies ?</string>
+    <string name="gaming">Gaming</string>
+    <string name="sports">Sports</string>
+    <string name="traveling">Traveling</string>
+    <string name="listening_music">Listening Music</string>
+    <string name="choose">choose</string>
+</resources>
